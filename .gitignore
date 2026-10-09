@@ -1,0 +1,15 @@
+# Godot 4+ generated files
+.godot/
+
+# Imported assets and editor state
+.import/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local environment files
+.env
+.env.*
